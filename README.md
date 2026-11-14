@@ -1,8 +1,9 @@
 # WeTripping
 
 <p float="left">
-  <img src="./docs/screenshot-home.png" width="45%" />
-  <img src="./docs/screenshot-trip.png" width="45%" />
+  <img src="./docs/screenshot-home.png" height="500" />
+  <img src="./docs/screenshot-trip.png" height="500" />
+  <img src="./docs/screenshot-adding.png" height="500" />
 </p>
 
 Tracking your expenses while you are traveling in a group can be a pain. This is why I got inspired to build this project. You just create your trips, invite your friends to join them and enter the expenses. The app does the calculating. 
